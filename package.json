@@ -1,0 +1,36 @@
+{
+  "name": "node_basic_project",
+  "version": "1.0.0",
+  "description": "- 항해99 Node.js 기본주차 프로젝트 입니다. - MongoDB는 Cloud로 연결되어있습니다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archepro84/Node_Basic_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archepro84/Node_Basic_Project/issues"
+  },
+  "homepage": "https://github.com/archepro84/Node_Basic_Project#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "ejs": "^3.1.6",
+    "eslint": "^7.32.0",
+    "express": "^4.18.1",
+    "git": "^0.1.5",
+    "init": "^0.1.2",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
